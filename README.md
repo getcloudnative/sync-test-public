@@ -1,1 +1,1 @@
-# sync-test-internal
+# sync-test
